@@ -1,0 +1,32 @@
+header{    border: 10px solid #888;} 
+
+h3.widget-title, h2.widget-title{
+background: #dee2e6;
+}
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range {
+	background-color: #212529;
+}
+
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
+	background-color: #74787c;
+}
+.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce a.added_to_cart, .woocommerce button.button, .woocommerce input.button {
+    color: black !important;
+    background-color: #a12f3a !important;
+}
+h1{ text-decoration: underline;}
+td {font-weight: bold;}
+.woocommerce-loop-category__title{
+ font-family: "Lucida Console", "Courier New", monospace;
+
+}
+
+.woocommerce #content div.product div.summary, .single-product .product.type-product, .woocommerce-page #content div.product div.summary {
+	background-color:#F0F8FF;
+	
+}
+p{color:white;}
+
+li.product.type-product.post-57.status-publish.last.instock.product_cat-boxing-bloves.has-post-thumbnail.shipping-taxable.purchasable.product-type-simple:hover {
+    background-color: yellow;
+}
